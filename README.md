@@ -143,8 +143,9 @@ Direccion fisica en RAM Hexadecimal: 0xe11efffde4
 ## Recursos oficiales
 
 - [Referencia oficial C++ — Punteros y Memoria (cplusplus.com)](https://www.cplusplus.com/doc/tutorial/pointers/)
-- [Documentación de Microsoft — Operadores de dirección y desreferenciación](https://learn.microsoft.com/es-es/cpp/language-reference/pointers?view=msvc-170)
-- [GeeksforGeeks — Pointers in C++](https://www.geeksforgeeks.org/pointers-in-cpp/)
+- [Microsoft — Operador de dirección `&`](https://learn.microsoft.com/es-es/cpp/cpp/address-of-operator-amp?view=msvc-170)
+- [Microsoft — Operador de direccionamiento indirecto `*`](https://learn.microsoft.com/es-es/cpp/cpp/indirection-operator-star?view=msvc-170)
+- [GeeksforGeeks — C++ Pointers](https://www.geeksforgeeks.org/cpp/cpp-pointers/)
 
 ---
 
