@@ -1,0 +1,28 @@
+# Archivos de configuración de editores (excluidos por la consigna)
+.vscode/
+.idea/
+
+# Binarios y objetos generados por g++ (se recompilan, no se versionan)
+*.exe
+*.exe.lock
+*.o
+*.obj
+*.gch
+*.out
+
+# Archivos de depuración
+*.dSYM/
+
+# Archivos del sistema operativo
+Thumbs.db
+ehthumbs.db
+desktop.ini
+.DS_Store
+
+# Temporales de la compilación
+*.tmp
+*.log
+
+# PDF sueltos en la raíz (por ejemplo, la hoja de la consigna).
+# El informe APA v7 vive en docs/ y sí se versiona.
+/*.pdf
