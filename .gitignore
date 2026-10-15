@@ -22,7 +22,3 @@ desktop.ini
 # Temporales de la compilación
 *.tmp
 *.log
-
-# PDF sueltos en la raíz (por ejemplo, la hoja de la consigna).
-# El informe APA v7 vive en docs/ y sí se versiona.
-/*.pdf
