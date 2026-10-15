@@ -7,16 +7,16 @@ E.E.S.T. N.° 1 "Eduardo Ader" — Vicente López
 
 ---
 
-## 📌 ¿Qué es este proyecto?
+## ¿Qué es este proyecto?
 
 Un sistema básico de **control de acceso por edad** escrito en C++, construido para
 comprender **qué ocurre realmente dentro de la memoria RAM** cuando se ejecuta un
-programa. En lugar de trust a las variables como cajas negras, el código las maneja
+programa. En lugar de tratar las variables como cajas negras, el código las maneja
 como **casilleros físicos con dirección**, usando punteros y desreferenciación.
 
 ---
 
-## 🧠 La idea central: la RAM como casilleros numerados
+## La idea central: la RAM como casilleros numerados
 
 La memoria RAM se organiza como **casilleros numerados**, y cada casillero tiene una
 **dirección física única**. Para el sistema operativo, una dirección no es un número
@@ -67,7 +67,7 @@ Con `cin >> *p;` el compilador entiende: *"entrá al casillero apuntado y escrib
 
 ---
 
-## 🗂️ Estructura de carpetas
+## Estructura de carpetas
 
 ```
 CADENASPUNTEROS/
@@ -85,7 +85,7 @@ CADENASPUNTEROS/
 
 ---
 
-## ⚙️ Compilación y ejecución (Windows 10/11)
+## Compilación y ejecución (Windows 10/11)
 
 Abrí la **terminal integrada de VS Code** (`Ctrl` + `Ñ`) en la raíz del proyecto y
 seguí estos comandos:
@@ -107,7 +107,7 @@ Si la PC del laboratorio no permite compilar, la consigna obliga a usar
 
 ---
 
-## ▶️ Ejemplo de salida real
+## Ejemplo de salida real
 
 ```text
 =====================================================
@@ -128,7 +128,7 @@ Direccion fisica en RAM Hexadecimal: 0xe11efffde4
 
 ---
 
-## 📚 Glosario
+## Glosario
 
 | Término | Definición |
 |---|---|
@@ -140,7 +140,7 @@ Direccion fisica en RAM Hexadecimal: 0xe11efffde4
 
 ---
 
-## 🔗 Recursos oficiales
+## Recursos oficiales
 
 - [Referencia oficial C++ — Punteros y Memoria (cplusplus.com)](https://www.cplusplus.com/doc/tutorial/pointers/)
 - [Documentación de Microsoft — Operadores de dirección y desreferenciación](https://learn.microsoft.com/es-es/cpp/language-reference/pointers?view=msvc-170)
@@ -148,6 +148,6 @@ Direccion fisica en RAM Hexadecimal: 0xe11efffde4
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Proyecto bajo licencia **MIT** — ver [`LICENSE`](LICENSE). Uso escolar.
